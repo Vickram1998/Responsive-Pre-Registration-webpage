@@ -1,0 +1,35 @@
+
+.desktop-form input{
+position: relative;
+right: 8%;
+top: 444px;
+width: 356px;
+height: 57px;
+padding-left: 20px;
+border: 1px solid #9A6B69;
+border-radius: 29px;
+opacity: 1;
+}
+.desktop-form button{
+    position: relative;
+    right: 20%;
+    top: 444px;
+    width: 95px;
+    height: 61px;
+    background: #E7A09E 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    border-radius: 29px;
+    opacity: 1;
+    border: #E7A09E;
+}
+.error-msg{
+    margin-left: 5px;
+    position: relative;
+    left: 0px;
+    top:430px;
+    color: rgb(235, 64, 64);
+}
+.error-text{
+    margin-top: 10px;
+    margin-left: 200px;
+}

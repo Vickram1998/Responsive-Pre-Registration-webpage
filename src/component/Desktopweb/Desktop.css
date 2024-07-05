@@ -1,0 +1,110 @@
+.content{
+    width: 100vw;
+}
+.text-area{
+position: relative;
+top: 0px;
+left: 0px;
+width: 852px;
+height: 833px;
+background: transparent linear-gradient(136deg, #FCF3F3 0%, #FFFFFF 49%, #FAF1F0 100%) 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.desktop-layout{
+    position: relative;
+    left: 2%;    
+    display: flex;
+    flex-direction: row;
+}
+.img-container{
+top: 0px;
+width: 628px;
+height: 833px;
+left: 852px;
+}
+
+img{
+    position: relative;
+    width: 628px;
+    height: 833px;
+
+
+}
+.starting-test {
+    display: flex;
+    flex-direction: column;
+}
+
+.logo{
+    position: relative;
+    top: 70px;
+    left: 66px;
+    width: 39px;
+    height: 39px;
+   
+    border: 2px solid #E7A09E;
+    opacity: 1;
+    border-radius: 50px;
+}
+.base{
+    position: relative;
+top: 30px;
+left: 115px;
+width: 64px;
+height: 27px;
+
+text-align: center;
+font: normal normal medium 20px/28px Avenir;
+letter-spacing: 6px;
+color: #5F5A5A;
+opacity: 1;
+}
+.apparel{
+position: relative;
+top: 30px;
+left: 115px;
+width: 64px;
+height: 27px;
+
+text-align: center;
+font: normal normal medium 20px/28px Avenir;
+letter-spacing: 6px;
+color: #5F5A5A;
+opacity: 1;
+}
+.mid-test{
+position: relative;
+top: 150px;
+left: 81px;
+width: 248px;
+height: 85px;
+
+text-align: center;
+font: normal normal 300 64px/90px Avenir;
+letter-spacing: 19.2px;
+opacity: 1;
+}
+
+.mid-test .we{
+    
+    color: #D2A1A2;
+}
+.mid-test .coming{
+    color: #393334;
+}
+.mid-test .soon{
+    color: #393334;
+}
+.lorem-ipsum-text{
+position: relative;
+top: 385px;
+left: 71px;
+width: 475px;
+height: 70px;
+text-align: left;
+font: normal normal 600 13px/26px Open Sans;
+letter-spacing: 0px;
+color: #9A6B69;
+opacity: 1;
+
+}  
